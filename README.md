@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Gia Nguyen
 
-<!--
-**GiaNguyen97/GiaNguyen97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Backend Developer (Fresher)
 
-Here are some ideas to get you started:
+🎓 Web Fullstack Developer - CodeGym Da Nang
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+Java | Spring Boot | MySQL | JavaScript | React | Git | REST API
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=GiaNguyen97&show_icons=true&theme=tokyonight)
+
+![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GiaNguyen97&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=GiaNguyen97&theme=tokyonight)
+
+---
+
+## 📂 My Projects
+
+🎫 App Ticket – Event Ticket Booking System  
+💻 Code Arena – Programming Practice Platform  
+🏛 DVC – Public Service System
