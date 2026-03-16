@@ -1,23 +1,19 @@
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<h2>Hi there 👋 I'm Gia Nguyen</h2>
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+💻 Java Backend Developer (Fresher)  
+🎓 CodeGym Da Nang - Web Fullstack  
+🎯 Goal: Become a professional Java Developer  
+
+---
+
+### 🚀 Tech Stack
+
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![Spring](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-<h1 align="center">Hi 👋, I'm Gia Nguyen</h1>
-
-<h3 align="center">Java Backend Developer (Fresher)</h3>
-
----
-
-🚀 I'm a Web Fullstack Developer trained at CodeGym Da Nang.
-
-🎯 My goal is to become a professional Java Backend Developer.
-
----
-
-### 🛠 Tech Stack
-
-Java | Spring Boot | MySQL | JavaScript | React | Git | REST API
 
 ---
 
@@ -25,20 +21,10 @@ Java | Spring Boot | MySQL | JavaScript | React | Git | REST API
 
 ![stats](https://github-readme-stats.vercel.app/api?username=GiaNguyen97&show_icons=true&theme=tokyonight)
 
-![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GiaNguyen97&layout=compact&theme=tokyonight)
-
 ---
 
-### 🔥 GitHub Streak
+### 💻 Projects
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=GiaNguyen97&theme=tokyonight)
-
----
-
-### 📂 Projects
-
-🎫 App Ticket – Event ticket booking system  
-
-💻 Code Arena – Coding challenge platform  
-
-🏛 DVC – Public service management system
+🎫 App Ticket  
+💻 Code Arena  
+🏛 DVC System
